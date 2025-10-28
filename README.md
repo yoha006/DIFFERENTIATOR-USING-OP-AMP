@@ -50,10 +50,14 @@ DIFFERENTIATOR
 <img width="757" height="447" alt="image" src="https://github.com/user-attachments/assets/3bb38583-c020-43ad-8b15-c03f1f545842" />
 
 TABULATION:
+![WhatsApp Image 2025-10-28 at 10 51 56_a77487cb](https://github.com/user-attachments/assets/76adf1d1-4a95-425d-a2ab-87679ea57e16)
 
 
 GRAPH:
+![WhatsApp Image 2025-10-28 at 10 51 56_6a1f333c](https://github.com/user-attachments/assets/ff832dbb-6751-4788-82fd-f874855203b7)
+![WhatsApp Image 2025-10-28 at 10 51 56_bdf87a76](https://github.com/user-attachments/assets/942aba2e-7898-4355-9635-cc5d1810c3c3)
+
 
 
 RESULT:
-
+thus the differentiator using opamp are designed and their  performance was successfully using opamp741
